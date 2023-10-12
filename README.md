@@ -1,4 +1,4 @@
-# react_drag_drop
+# React.js Drag and Drop 
 Complete solution about React Drag and drop features
 
 # Requirements
@@ -41,6 +41,9 @@ Complete solution about React Drag and drop features
 
 
 Gif of working application
+
+![Work_mgt](https://github.com/stockchandu/react_drag_drop/assets/83898344/a20ffbea-e7cc-4605-9d03-a239afbac5e4)
+
 
 
 
