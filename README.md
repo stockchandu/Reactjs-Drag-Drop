@@ -1,5 +1,5 @@
-# React.js Drag and Drop 
-Complete solution about React Drag and drop features
+# Kanban board
+Complete solution about kanbaord board , where user can create task , move task and update task
 
 # Requirements
   - User can create a new task
